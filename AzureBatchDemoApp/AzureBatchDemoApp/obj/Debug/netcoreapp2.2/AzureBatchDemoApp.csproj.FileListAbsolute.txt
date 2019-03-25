@@ -1,0 +1,11 @@
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Debug\netcoreapp2.2\AppSettings.json
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Debug\netcoreapp2.2\AzureBatchDemoApp.deps.json
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Debug\netcoreapp2.2\AzureBatchDemoApp.runtimeconfig.json
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Debug\netcoreapp2.2\AzureBatchDemoApp.runtimeconfig.dev.json
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Debug\netcoreapp2.2\AzureBatchDemoApp.dll
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Debug\netcoreapp2.2\AzureBatchDemoApp.pdb
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\obj\Debug\netcoreapp2.2\AzureBatchDemoApp.csproj.CoreCompileInputs.cache
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\obj\Debug\netcoreapp2.2\AzureBatchDemoApp.AssemblyInfoInputs.cache
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\obj\Debug\netcoreapp2.2\AzureBatchDemoApp.AssemblyInfo.cs
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\obj\Debug\netcoreapp2.2\AzureBatchDemoApp.dll
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\obj\Debug\netcoreapp2.2\AzureBatchDemoApp.pdb

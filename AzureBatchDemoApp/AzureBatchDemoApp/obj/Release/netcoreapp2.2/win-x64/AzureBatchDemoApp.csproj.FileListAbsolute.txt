@@ -1,0 +1,14 @@
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Release\netcoreapp2.2\win-x64\hostpolicy.dll
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Release\netcoreapp2.2\win-x64\hostfxr.dll
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Release\netcoreapp2.2\win-x64\AzureBatchDemoApp.exe
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Release\netcoreapp2.2\win-x64\AppSettings.json
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Release\netcoreapp2.2\win-x64\AzureBatchDemoApp.deps.json
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Release\netcoreapp2.2\win-x64\AzureBatchDemoApp.runtimeconfig.json
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Release\netcoreapp2.2\win-x64\AzureBatchDemoApp.runtimeconfig.dev.json
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Release\netcoreapp2.2\win-x64\AzureBatchDemoApp.dll
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\bin\Release\netcoreapp2.2\win-x64\AzureBatchDemoApp.pdb
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\obj\Release\netcoreapp2.2\win-x64\AzureBatchDemoApp.csproj.CoreCompileInputs.cache
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\obj\Release\netcoreapp2.2\win-x64\AzureBatchDemoApp.AssemblyInfoInputs.cache
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\obj\Release\netcoreapp2.2\win-x64\AzureBatchDemoApp.AssemblyInfo.cs
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\obj\Release\netcoreapp2.2\win-x64\AzureBatchDemoApp.dll
+D:\BitBucket\AzureBatch\AzureBatchDemoApp\AzureBatchDemoApp\obj\Release\netcoreapp2.2\win-x64\AzureBatchDemoApp.pdb

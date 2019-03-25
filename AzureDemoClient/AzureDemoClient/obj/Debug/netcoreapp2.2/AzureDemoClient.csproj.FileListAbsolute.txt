@@ -1,0 +1,12 @@
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\bin\Debug\netcoreapp2.2\AppSettings.json
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\bin\Debug\netcoreapp2.2\AzureDemoClient.deps.json
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\bin\Debug\netcoreapp2.2\AzureDemoClient.runtimeconfig.json
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\bin\Debug\netcoreapp2.2\AzureDemoClient.runtimeconfig.dev.json
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\bin\Debug\netcoreapp2.2\AzureDemoClient.dll
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\bin\Debug\netcoreapp2.2\AzureDemoClient.pdb
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\obj\Debug\netcoreapp2.2\AzureDemoClient.csproj.CoreCompileInputs.cache
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\obj\Debug\netcoreapp2.2\AzureDemoClient.AssemblyInfoInputs.cache
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\obj\Debug\netcoreapp2.2\AzureDemoClient.AssemblyInfo.cs
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\obj\Debug\netcoreapp2.2\AzureDemoClient.dll
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\obj\Debug\netcoreapp2.2\AzureDemoClient.pdb
+D:\BitBucket\AzureBatch\AzureDemoClient\AzureDemoClient\obj\Debug\netcoreapp2.2\AzureDemoClient.csprojAssemblyReference.cache
