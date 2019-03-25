@@ -4886,11 +4886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BitBucket\\AzureBatch\\AzureDemoClient\\AzureDemoClient\\AzureDemoClient.csproj",
+      "projectUniqueName": "D:\\BitBucket\\AzureBatchDemo\\AzureDemoClient\\AzureDemoClient\\AzureDemoClient.csproj",
       "projectName": "AzureDemoClient",
-      "projectPath": "D:\\BitBucket\\AzureBatch\\AzureDemoClient\\AzureDemoClient\\AzureDemoClient.csproj",
+      "projectPath": "D:\\BitBucket\\AzureBatchDemo\\AzureDemoClient\\AzureDemoClient\\AzureDemoClient.csproj",
       "packagesPath": "C:\\Users\\sachin\\.nuget\\packages\\",
-      "outputPath": "D:\\BitBucket\\AzureBatch\\AzureDemoClient\\AzureDemoClient\\obj\\",
+      "outputPath": "D:\\BitBucket\\AzureBatchDemo\\AzureDemoClient\\AzureDemoClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
